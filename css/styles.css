@@ -84,9 +84,6 @@ body {
   color: #dc3545;
   text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
-  -webkit-text-size-adjust: 100%;
-  -webkit-text-stroke: 1px black;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 hr {
@@ -11400,9 +11397,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url(https://i.pinimg.com/564x/7d/16/4d/7d164d4c1359514712896ba37c435cb7.jpg);
-  background-position: center;
-  background-size: 1500px 800px
+ 
 }
 section.cta .cta-content {
   position: relative;
