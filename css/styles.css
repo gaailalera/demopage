@@ -3994,7 +3994,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #2937f0;
+  background-color: #f05129;
 }
 
 .nav-fill > .nav-link,
@@ -11318,7 +11318,7 @@ section {
   font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:active {
-  color: #2937f0;
+  color: #fff;
 }
 #mainNav .navbar-toggler {
   font-size: 0.875rem;
